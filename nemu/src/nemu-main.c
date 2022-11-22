@@ -12,9 +12,10 @@
 *
 * See the Mulan PSL v2 for more details.
 ***************************************************************************************/
-
+//
 #include <common.h>
 
+#include <stdio.h>
 void init_monitor(int, char *[]);
 void am_init_monitor();
 void engine_start();
